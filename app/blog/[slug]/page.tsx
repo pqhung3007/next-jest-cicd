@@ -13,6 +13,7 @@ export default function Page({ params }: Params) {
     <>
       <h1>Slug: {params.slug}</h1>
       <p>Quang Hung</p>
+      <p>Welcome to Hanoi</p>
     </>
   )
 }
